@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DaniilLem/Routing.git/static/css/main.aa38ac68.css",
+    "main.js": "/DaniilLem/Routing.git/static/js/main.9370e520.js",
+    "index.html": "/DaniilLem/Routing.git/index.html",
+    "main.aa38ac68.css.map": "/DaniilLem/Routing.git/static/css/main.aa38ac68.css.map",
+    "main.9370e520.js.map": "/DaniilLem/Routing.git/static/js/main.9370e520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa38ac68.css",
+    "static/js/main.9370e520.js"
+  ]
+}
